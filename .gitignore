@@ -1,0 +1,17 @@
+#osx
+.DS_Store
+
+#unity
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.unityproj
+FailedAssetImports.txt
+unity3D-lessons/lesson2/Library/cache/
+unity3D-lessons/lesson2/Library/previews/
+unity3D-lessons/lesson2/Library/ScriptAssemblies
+unity3D-lessons/lesson2/obj
+unity3D-lessons/lesson2/Temp
+
+
