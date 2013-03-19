@@ -14,4 +14,8 @@ unity3D-lessons/lesson2/Library/ScriptAssemblies
 unity3D-lessons/lesson2/obj
 unity3D-lessons/lesson2/Temp
 
-
+#3d-audio
+3Daudio-lab/bell.wav
+3Daudio-lab/filtered.wav
+3Daudio-lab/tone.wav
+*.m~
