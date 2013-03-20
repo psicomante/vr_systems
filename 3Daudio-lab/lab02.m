@@ -12,7 +12,9 @@ for azimuth = 0:360
 
     filter_left = getNearestUCDpulse(azimuth, elevation, hrir_l);
     filter_right = getNearestUCDpulse(azimuth, elevation, hrir_r);
-
+    
+    %note to myself
+    %a(1:4, :) -> rows 1 to 4 and all columns for matrix a
 
 
 end
