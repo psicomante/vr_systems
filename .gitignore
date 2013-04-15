@@ -8,11 +8,10 @@
 *.pidb
 *.unityproj
 FailedAssetImports.txt
-unity3D-lessons/lesson2/Library/cache/
-unity3D-lessons/lesson2/Library/previews/
-unity3D-lessons/lesson2/Library/ScriptAssemblies
-unity3D-lessons/lesson2/obj
-unity3D-lessons/lesson2/Temp
+unity3D-lessons/**/Library/cache/
+unity3D-lessons/**/Library/previews/
+unity3D-lessons/**/Library/ScriptAssemblies
+unity3D-lessons/**/obj
 unity3D-lessons/**/Temp
 
 #3d-audio
