@@ -2,11 +2,11 @@
 .DS_Store
 
 #unity
-*.sln
+#*.sln
 *.userprefs
-*.csproj
+#*.csproj
 *.pidb
-*.unityproj
+#*.unityproj
 FailedAssetImports.txt
 unity3D-lessons/**/Library/cache/
 unity3D-lessons/**/Library/previews/
